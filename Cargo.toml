@@ -1,0 +1,9 @@
+[package]
+name = "color_picker"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+enigo = "0.1.3"
+screenshot-rs = "0.1.5"
+image = "0.23.14"

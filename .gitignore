@@ -21,7 +21,8 @@ Cargo.lock
 rust-project.json
 
 
-tempscreenshot.png.vscode/*
+tempscreenshot.png
+.vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
 !.vscode/launch.json
